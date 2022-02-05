@@ -1,0 +1,21 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.2.0",
+    "dotenv": "^11.0.0",
+    "mongoose": "6.1.5"
+  },
+  "keywords": [],
+  "author": "Kira27291",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
